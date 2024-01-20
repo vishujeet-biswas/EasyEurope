@@ -296,7 +296,10 @@ input, textarea {
     color: #fff;
     padding: 10px;
     border: none;
+    border-radius: 10px;
     cursor: pointer;
+    width: 30%;
+    margin: 10px auto;
 }
 
 button:hover {
@@ -351,3 +354,5 @@ button:hover {
 .footer p {
     margin-bottom: 20px;
 }
+
+
